@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to the developers of the technologies and libraries used in this project, as well as the open-source community for their invaluable contributions.
 
 **Contact:**
-For inquiries or feedback, please contact 005ayushsaini@gmail.com.
+For inquiries or feedback, please contact mitravind07@gmail.com.
 
 **Enjoy exploring the world with Wanderlust!**
